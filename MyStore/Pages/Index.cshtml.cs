@@ -16,5 +16,9 @@ namespace MyStore.Pages
         {
 
         }
+        public void OnGetModify()
+        {
+
+        }
     }
 }
